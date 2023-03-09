@@ -18,20 +18,8 @@
 
 <h3 align="left"><img src="./src/estadistica2.gif" width="25px" height="25px"> GitHub Stats</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=angelooop28&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=angelooop28&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=angelooop28&show_icons=true&locale=en" alt="angelooop28" /></p>
-
-<h3 align="left"><img src="./src/estadistica2.gif" width="25px" height="25px"> GitHub Stats</h3>
-
-<div>
-  <a href="https://github.com/angelooop28">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=angelooop28&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelooop28&layout=compact&langs_count=7&theme=radical"/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=angelooop28&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@edward31088951" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@edward31088951" height="30" width="40" /></a>
-<a href="https://instagram.com/espinoza_edward" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="espinoza_edward" height="30" width="40" /></a>
-</p>
