@@ -23,3 +23,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=angelooop28&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=angelooop28&show_icons=true&locale=en&layout=compact" alt="angelooop28" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=angelooop28&show_icons=true&locale=en" alt="angelooop28" /></p>
+
