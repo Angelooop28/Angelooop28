@@ -24,6 +24,6 @@
 </div>
 
 
-![Snake animation](https://github.com/angelooop28/angelooop28/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Angelooop28/Angelooop28/blob/output/github-contribution-grid-snake.svg)
 
 ---
