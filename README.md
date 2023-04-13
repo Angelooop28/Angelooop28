@@ -22,9 +22,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=angelooop28&layout=compact&langs_count=7&theme=radical"/>
 
-
-
-![Snake animation](https://github.com/angelooop28/angelooop28/blob/output/github-contribution-grid-snake.svg)
-
----
-</div>
