@@ -1,26 +1,29 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&reversal=true"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&reversal=true"
+>
 </div>
 
 <h1 align="center">
-  ⚡ Edward Espinoza
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+⚡ Edward Espinoza
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
 
 <h3 align="center">
-  👨‍💻 Information Technology Engineer · Full-Stack Developer
+👨‍💻 Information Technology Engineer · Full-Stack Developer
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Information%20Technology%20Engineer;Full-Stack%20Developer;Enterprise%20Systems%20%26%20APIs;Clean%20Architecture%20%26%20Scalable%20Solutions;Continuous%20Learning%20🚀;&font=Fira%20Code&center=true&width=560&height=45&color=00F5FF">
-  </a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Information%20Technology%20Engineer;
+Full-Stack%20Developer;Enterprise%20Systems%20%26%20APIs;Clean%20Architecture%20%26%20Scalable%20Solutions;
+Continuous%20Learning%20🚀;&font=Fira%20Code&center=true&width=560&height=45&color=00F5FF">
+</a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=angelooop28&style=for-the-badge&color=blueviolet"/>
-  <img src="https://img.shields.io/github/followers/angelooop28?style=for-the-badge&color=ff00ff"/>
-  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-00f5ff?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=angelooop28&style=for-the-badge&color=blueviolet"/>
+<img src="https://img.shields.io/github/followers/angelooop28?style=for-the-badge&color=ff00ff"/>
+<img src="https://img.shields.io/badge/Experience-3%2B%20Years-00f5ff?style=for-the-badge"/>
 </p>
 
 ---
@@ -67,10 +70,14 @@ Experienced in working with **APIs, databases, system optimization, and technica
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=angelooop28&theme=radical&show_icons=true&count_private=true&hide_border=true"/>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=angelooop28&theme=radical&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=angelooop28&show_icons=true&theme=radical&hide_border=true&rank_icon=github&v=1" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=angelooop28&theme=radical&hide_border=true&v=1" />
 
 </div>
+
 
 ### 📈 Activity Graph
 
