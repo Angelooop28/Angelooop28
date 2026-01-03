@@ -40,7 +40,7 @@ Information Technology Engineer with **+3 years of experience in programming and
 Focused on **Full-Stack development**, **enterprise system integration**, and **continuous improvement of corporate platforms**.  
 Experienced in working with **APIs, databases, system optimization, and technical support**, ensuring stability, efficiency, and scalability.
 
-📍 **Ecuador**
+📍 **Manta|Ecuador**
 
 ---
 
@@ -51,6 +51,7 @@ Experienced in working with **APIs, databases, system optimization, and technica
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
 ![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk)
 ![C%23](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp)
 
 ### 🖥️ Frameworks & Backend
@@ -61,10 +62,14 @@ Experienced in working with **APIs, databases, system optimization, and technica
 ![Django](https://img.shields.io/badge/Django-111111?style=for-the-badge&logo=django)
 ![.NET](https://img.shields.io/badge/.NET-111111?style=for-the-badge&logo=dotnet)
 
+### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-111111?style=for-the-badge&logo=flutter)
+
 ### 🗄️ Databases & Tools
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb)
+![SQLite](https://img.shields.io/badge/SQLite-111111?style=for-the-badge&logo=sqlite)
 ![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker)
 ![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux)
 ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
@@ -74,12 +79,15 @@ Experienced in working with **APIs, databases, system optimization, and technica
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="mailto:edwardespin_28@hotmail.com">
+<a href="mailto:edwardespin_28@hotmail.com">
     <img src="https://img.shields.io/badge/Email-edwardespin__28-ff00ff?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/edward-espinoza-7703b1281/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Edward%20Espinoza-00f5ff?style=for-the-badge&logo=linkedin"/>
   </a>
+  <a href="https://www.instagram.com/aned.code/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-ANED.CODE-ff00ff?style=for-the-badge&logo=instagram"/>
+</a>
 </div>
 
 ---
